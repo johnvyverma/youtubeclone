@@ -1,0 +1,197 @@
+.tahoma-text{
+    font-family: Tahoma;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.biggest-text{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.sales-text{
+    color: rgb(255, 51, 0);
+    font-family: arial;
+    margin-top: 0px;
+    font-size: 14px;
+    margin-bottom: 50px;
+    font-style: italic;
+}
+.shopping-text{
+    font-family: arial;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    text-align: center;
+}
+.see-text{
+    font-family: arial;
+    font-size: 10px;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.learn-text{
+    font-family: arial;
+    font-size: 12px;
+    margin-top: 0px;
+    text-align: center;
+    color: rgba(0, 94, 255, 0.908);
+    margin-bottom: 50px;
+}
+.html-text{
+     font-family: verdana;
+     font-size: 15px;
+     font-weight: bold;
+     margin-top: 0px;
+     margin-bottom: 2px;
+}
+.beginner-text{
+     color: grey;
+     font-size: 13px;
+     margin-top: 0px;
+     margin-bottom: 10px;
+     font-family: verdana;
+}
+.body-text{
+    width: 200px;
+    font-size: 11px;
+    margin-top: 0px;
+    font-family: verdana;
+    margin-bottom: 13px;
+}
+.get-button{
+    background-color: rgb(35, 131, 35);
+    border-radius: 6px;
+    border: solid;
+    font-family: verdana;
+    color: white;
+    font-size: 8px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.new-text{
+    color: rgb(255, 111, 0);
+    font-size: 10px;
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.mac-text{
+    font-family: arial;
+    font-size: 12px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+.supercharged-text{
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.from-text{
+    font-size: 10px;
+    font-family: arial;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.buy-text{
+    
+     color: rgb(255, 255, 255);
+     font-weight: bold;
+     font-family: arial;
+     font-size: 10px;
+     padding-left: 15px;
+     padding-top: 7px;
+     padding-bottom: 7px;
+     padding-right: 15px;
+     background-color: rgb(23, 96, 244);
+     margin-left: 315px;
+     margin-right: 320px;
+     border-radius: 30px;
+     margin-top: 0px;
+     text-align: center;
+     margin-bottom: 50px;
+}
+.numeric1-text{
+     font-size: 30px;
+     font-family: arial;
+     margin-top: 0px;
+     margin-bottom: 5px;    
+}
+.n2-span{
+     color: rgb(105, 105, 105);
+     font-size: 15px;
+     font-family: arial; 
+     margin-top: 0px;
+     margin-bottom: 5px;
+     margin-left: 7px;
+    }
+.numeric2-text{
+     font-size: 15px;
+     margin-top: 0px;
+     margin-bottom: 5px;
+     font-family: arial;
+     color: rgb(1, 93, 1);
+}
+.numeric3-text{
+     font-size:16px ;
+     margin-top: 0px;
+     color:rgb(105, 105, 105) ;
+     font-family: arial;
+     margin-bottom: 50px;
+}
+.n3-span{
+     color: red;
+     font-family: arial;
+}
+.free-text{
+    font-size: 15px;
+    font-family: arial;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 3px;
+}
+.free-span{
+    font-size: 15px;
+    font-family: arial;
+    color:rgb(105, 105, 105);
+    font-weight: 100;
+}
+.as-text{
+    font-family: arial;
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    width: 450px;
+
+}
+.here-text{
+    font-size: 13px;
+    font-family: arial;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    width: 450px;
+}
+.chp-span{
+    font-size: 13px;
+    font-family: arial;
+    margin-top: 0px;
+    color: rgb(0, 132, 255);
+    margin-right: 2px;
+}

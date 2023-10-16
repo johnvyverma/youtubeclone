@@ -1,0 +1,294 @@
+.image-1{
+    width: 55px;
+    height: 55px;
+    border-radius: 55px;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 10px;
+}
+.name-text{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    height: 17px;
+}
+.name-text1{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    height: 17px;
+}
+.name-text2{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    height: 17px;
+}
+.follow-button{
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    color: white;
+    background-color: rgb(63, 140, 255);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.div-1,
+.div-2,
+.div-3{
+ display: inline-block;
+}
+.div-1{
+    margin-left: 10px;
+    width: 60px;
+    height: 60px;
+    vertical-align: middle;
+    margin-bottom: 0px;  
+    height: 80px;
+}
+.div-2{
+    margin-left: 10px;
+    width: 100px;
+    height: 100px;
+    vertical-align: top;
+    margin-bottom: 0px;
+    height:80px;
+}
+.div-3{
+    margin-left: 50px;
+    vertical-align: middle;
+    margin-bottom: 0px;
+    height: 80px;
+}
+.name-text4{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    width: 150px; 
+    height: 17px;
+}
+.image-101,
+.self-taught{
+    display: inline-block;
+}
+.div-101,
+.div-102,
+.div-103{
+    display: block;
+    margin-top: 10px;
+}
+.thumbnail-selftaught{
+    width: 250px;
+    object-fit: fill;
+    object-position: center;
+}
+.self-taught{
+    margin-left: 10px;
+    vertical-align: top;
+    margin-top: 0px;
+}
+.caption{
+    width: 300px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 30px;
+    margin-bottom: 13px;
+}
+.channel-name{
+    color: grey;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.views-text{
+    color: grey;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.division-3,
+    .division-4,
+    .division-5{
+        display: inline-block;
+    }
+    
+    .cat-image-3{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        object-position: center;
+        margin-bottom: 0px;
+    }
+    .division-3{
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+        width: 200px;
+        margin-right:10px;
+    }
+   .heading-1{
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-left: 3px;
+   }
+    .mutual-1{
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 15px;
+        color: grey;
+        margin-bottom: 0px;
+        margin-left: 3px;
+        vertical-align: top;
+    }
+    .friend-1{
+        font-size: 15px;
+        font-family: arial;
+        background-color:  rgb(9, 105, 214);
+        color: white;
+        border-radius: 2px;
+        border: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: 3px;
+    }
+
+
+
+    .cat-image-4{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        object-position: center;
+        margin-bottom: 0px;
+    }
+    .division-4{
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+        width: 200px;
+        margin-right:10px;
+    }
+   .heading-2{
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-left: 3px;
+   }
+    .mutual-2{
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 15px;
+        color: grey;
+        margin-bottom: 0px;
+        margin-left: 3px;
+        vertical-align: top;
+    }
+    .friend-2{
+        font-size: 15px;
+        font-family: arial;
+        background-color:  rgb(9, 105, 214);
+        color: white;
+        border-radius: 2px;
+        border: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: 3px;
+    }
+
+
+
+
+
+    .cat-image-5{
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        object-position: center;
+        margin-bottom: 0px;
+    }
+    .division-5{
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+        width: 200px;
+        margin-right:10px;
+    }
+   .heading-3{
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-left: 3px;
+   }
+    .mutual-3{
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 15px;
+        color: grey;
+        margin-bottom: 0px;
+        margin-left: 3px;
+        vertical-align: top;
+    }
+    .friend-3{
+        font-size: 15px;
+        font-family: arial;
+        background-color:  rgb(9, 105, 214);
+        color: white;
+        border-radius: 2px;
+        border: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: 3px;
+    }
+    .division-3,
+    .division-4,
+    .division-5{
+        display: inline-block;
+    }
+    .image-6{
+        width: 30px;
+        height: 30px;
+        border-radius: 30px;
+        object-fit: cover;
+        object-position: center;
+        margin-top: 10px;
+    }
+    .mutual-1,
+    .friend-1{
+        display: inline-block;
+    }
+    .mutual-2,
+    .friend-2{
+        display: inline-block;
+    }
+    .mutual-3,
+    .friend-3{
+        display: inline-block;
+    }

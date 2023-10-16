@@ -1,0 +1,96 @@
+.thumbnail3-img{
+    width: 300px;
+   border-radius: 15px;
+}
+.thumbnail2-img{
+    width: 200px;
+    height: 200px;
+    object-fit:cover;
+    object-position: center ;
+}
+.thumbnail1-img{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+    object-position: center;
+    border-radius: 200px;
+}
+.search-input1{
+    border-radius: 5px;
+    border:solid;
+    text-align: left;
+    border-width: 1px;
+    padding: 5px;
+    border-color: rgba(171, 169, 169, 0.786);
+    background-color: white;
+    
+}
+.search-bar{
+border-radius: 15px;
+width: 300px;
+padding: 5px;
+border: none;
+box-shadow: 2px 2px 5px rgba(151, 151, 151, 0.834);
+margin-bottom: 30px;
+}
+.email-text{
+font-size: 10px;
+color: rgb(78, 78, 78);
+margin-bottom: 3px;
+}
+.searchbar-2{
+margin-bottom: 10px;
+width: 230px;
+}
+.by-text{
+color: rgb(78, 78, 78);
+margin-bottom: 0px;
+font-size: 10px;
+margin-bottom: 10px;
+margin-top: 0px;
+}
+.linkedin-button{
+width: 230px;
+background-color: rgb(52, 81, 176);
+border: none;
+border-radius: 15px;
+color: white;
+font-size: 14px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 7px;
+padding-bottom: 7px;
+margin-bottom: 50px;
+margin-right: 400px;
+}
+.cat-image2{
+border-radius: 50px;
+width: 50px;
+height: 50px;
+object-fit: cover;
+object-position: center;
+margin-right: 0px;
+vertical-align: middle;
+}
+.class-text{
+color: rgb(78, 78, 78); 
+font-size: 15px;
+margin-right: 0px;
+margin-top: 0px;
+vertical-align: middle;
+width: 200px;
+border: none;
+margin-left: 5px;
+}
+.tweet-button{
+background-color:  rgb(2, 134, 250);
+color: white;
+border: solid;
+border-radius: 20px;
+font-size: 15px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 15px;
+padding-right: 15px;
+vertical-align: middle;
+}

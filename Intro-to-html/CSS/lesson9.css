@@ -1,0 +1,271 @@
+.division{
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+    width: 350px;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 5px;
+}
+.cat-image1{
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 0px;
+    vertical-align: middle;
+    }
+    .class-text{
+    color: rgb(78, 78, 78); 
+    font-size: 15px;
+    margin-right: 0px;
+    margin-top: 0px;
+    vertical-align: middle;
+    width: 200px;
+    border: none;
+    margin-left: 5px;
+    }
+    .tweet-button{
+    background-color:  rgb(2, 134, 250);
+    color: white;
+    border: solid;
+    border-radius: 20px;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: middle;
+    }
+    .cat-image2{
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        object-position: center;
+        margin-bottom: 0px;
+    }
+    .division-2{
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+        margin-bottom: 20px;
+        width: 150px;
+    }
+   .heading{
+        font-weight: bold;
+        font-size: 17px;
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-left: 3px;
+   }
+    .mutual{
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5px;
+        color: grey;
+        margin-bottom: 0px;
+        margin-left: 3px;
+    }
+    .friend{
+        font-size: 15px;
+        font-family: arial;
+        background-color:  rgb(9, 105, 214);
+        color: white;
+        border-radius: 2px;
+        border: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: 3px;
+    }  
+
+
+    .cat-image-3{
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        object-position: center;
+        margin-bottom: 0px;
+    }
+    .division-3{
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+        width: 150px;
+        margin-right:10px;
+    }
+   .heading-1{
+        font-weight: bold;
+        font-size: 17px;
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-left: 3px;
+   }
+    .mutual-1{
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5px;
+        color: grey;
+        margin-bottom: 0px;
+        margin-left: 3px;
+    }
+    .friend-1{
+        font-size: 15px;
+        font-family: arial;
+        background-color:  rgb(9, 105, 214);
+        color: white;
+        border-radius: 2px;
+        border: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: 3px;
+    }
+
+
+
+    .cat-image-4{
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        object-position: center;
+        margin-bottom: 0px;
+    }
+    .division-4{
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+        width: 150px;
+        margin-right:10px;
+    }
+   .heading-2{
+        font-weight: bold;
+        font-size: 17px;
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-left: 3px;
+   }
+    .mutual-2{
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5px;
+        color: grey;
+        margin-bottom: 0px;
+        margin-left: 3px;
+    }
+    .friend-2{
+        font-size: 15px;
+        font-family: arial;
+        background-color:  rgb(9, 105, 214);
+        color: white;
+        border-radius: 2px;
+        border: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: 3px;
+    }
+
+
+
+
+
+    .cat-image-5{
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        object-position: center;
+        margin-bottom: 0px;
+    }
+    .division-5{
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+        width: 150px;
+        margin-right:10px;
+    }
+   .heading-3{
+        font-weight: bold;
+        font-size: 17px;
+        margin-top: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 0px;
+        margin-left: 3px;
+   }
+    .mutual-3{
+        font-size: 17px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5px;
+        color: grey;
+        margin-bottom: 0px;
+        margin-left: 3px;
+    }
+    .friend-3{
+        font-size: 15px;
+        font-family: arial;
+        background-color:  rgb(9, 105, 214);
+        color: white;
+        border-radius: 2px;
+        border: none;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        margin-left: 3px;
+    }
+    .division-3,
+    .division-4,
+    .division-5{
+        display: inline-block;
+    }
+
+
+
+
+
+.google{
+        
+        object-fit: cover;
+        width: 200px;
+        margin-bottom: 0px;
+        margin-top: 30px;
+}
+.search-bar{
+        border-radius: 15px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 100px;
+        border: none;
+        box-shadow: 2px 2px 5px rgba(151, 151, 151, 0.834);
+        margin-bottom: 30px;
+        font-size: 15px;
+        margin-top: 15px;
+        width: 400px;
+}
+.google-search{
+    width: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: rgb(245, 245, 245);
+    border: none;
+}
+.feeling-search{
+    width: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: rgb(245, 245, 245);
+    border: none;
+}
+.division-6{
+    text-align: center;
+}

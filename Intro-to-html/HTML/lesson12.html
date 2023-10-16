@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>flexbox-exercise</title>
+        <style>
+            .button-1{
+                width: 35px;
+                height: 20px;
+                border-radius: 15px;
+                border: none;
+                background-color: rgb(11, 71, 238); 
+                color: white;
+                padding: 2px;
+                font-family: Arial, Helvetica, sans-serif;
+                
+            }
+            .paragraph{
+                margin: 0;
+                font-weight: bold;
+                font-size: 17px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .common-div{
+                display: flex; 
+                flex-direction: row;
+                justify-content: space-between;
+                
+            }
+            .buttons{
+                padding: 10px;
+                width: 300px;
+            }
+            .image-1{
+            width: 55px;
+            height: 55px;
+            border-radius: 55px;
+            object-fit: cover;
+            object-position: center;
+            margin-top: 10px;
+            }
+            .name-text{
+                font-size: 17px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                margin-top: 0px;
+                margin-bottom: 3px;
+                height: 17px;
+            }
+            .name-text1{
+                font-size: 17px;
+                font-family: Arial, Helvetica, sans-serif;
+                color: grey;
+                margin-top: 0px;
+                margin-bottom: 3px;
+                height: 17px;
+            }
+            .name-text2{
+                font-size: 17px;
+                font-family: Arial, Helvetica, sans-serif;
+                color: grey;
+                margin-top: 0px;
+                margin-bottom: 3px;
+                height: 17px;
+            }
+            .follow-button{
+                border: none;
+                border-radius: 5px;
+                font-size: 17px;
+                color: white;
+                background-color: rgb(63, 140, 255);
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+            }
+            .name-text4{
+                font-size: 17px;
+                font-family: Arial, Helvetica, sans-serif;
+                color: grey;
+                margin-top: 0px;
+                margin-bottom: 5px;
+                width: 150px; 
+                height: 17px;
+            }
+
+        </style>
+
+
+
+
+
+
+
+
+
+    </head>
+    <body>
+        <div style="display: flex; flex-direction: row; margin-bottom: 50px;">
+            <div style="background-color: lightblue; width: 200px;">200px</div>
+            <div style="background-color: lightpink; width: 75px;">75px</div>
+        </div>
+
+
+        <div style="display: flex; flex-direction: row; margin-bottom: 50px;">
+            <div style="background-color: lightblue; width: 50px;">item1</div>
+            <div style="background-color: lightpink; flex: 1;">item2</div>
+            <div style="background-color: lightblue; width: 75px;">item3</div>
+        </div>
+
+
+        <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: 50px;">
+            <div style="background-color: lightblue; width: 50px;">item1</div>
+            <div style="background-color: lightblue; width: 50px;">item2</div>
+            <div style="background-color: lightblue; width: 50px;">item3</div>
+            <div style="background-color: lightblue; width: 50px;">item4</div>
+        </div>
+
+
+        <div style="display: flex; 
+         flex-direction: row;
+         justify-content: space-between;
+         align-items: center;
+         border: solid;
+         border-radius: 1px;
+         border-color: grey;
+         height: 50px;
+         width: 1fr;">
+            <div style="background-color: lightpink; ">item1</div>
+            <div style="background-color: lightpink;">item2</div>
+        </div>
+
+
+        <div class="buttons" style="display: flex; flex-direction: column;; box-shadow: 0px 0px 5px 0.7px rgba(0, 0, 0, 0.6); border-radius: 5px; margin-top: 20px; ">
+          <div class="common-div" style="margin-top: 5px; margin-bottom: 10px;" >
+            <p class="paragraph">Home</p>
+            <button class="button-1">
+                14
+            </button>
+          </div>
+          <div class="common-div"style="margin-bottom: 10px">
+            <p class="paragraph">Notifications</p>
+            <button class="button-1">
+                3
+            </button>
+          </div>
+          <div class="common-div" style="margin-bottom: 5px;" >
+            <p class="paragraph">messages</p>
+            <button class="button-1">
+                5
+            </button>
+          </div>
+          </div>
+        
+        
+        
+          <div style="display: flex; flex-direction: column; margin-top: 10px; width: 400px;">
+            <div style="display: flex; flex-direction: row;">
+                <div style="margin: 5px;">
+                <img class="image-1" src="intro-to-html/thumbnails/thumbnail-1.webp">
+                </div>
+                <div  style="display: flex; flex-direction: column; flex: 1;">
+                <p class="name-text">
+                        Oliver
+                </p>
+                <p  class="name-text1">
+                        the cat
+                </p>
+                <p  class="name-text2">
+                        Popular
+                </p>
+                </div>
+                <div>
+                <button class="follow-button"> Follow</button>
+                </div>
+        </div>
+
+        <div style="display: flex; flex-direction: row;">
+                <div style="margin: 5px;">
+                <img class="image-1" src="intro-to-html/thumbnails/thumbnail-2.webp">
+                </div>
+                <div  style="display: flex; flex-direction: column; flex: 1;">
+                <p class="name-text">
+                        Mimi
+                </p>
+                <p  class="name-text1">
+                        sleepy cat
+                </p>
+                <p  class="name-text2">
+                        Popular
+                </p>
+                </div>
+                <div>
+                <button class="follow-button"> Follow</button>
+                </div>
+        </div>
+
+
+        <div style="display: flex; flex-direction: row;">
+                <div style="margin: 5px;">
+                <img class="image-1" src="intro-to-html/thumbnails/thumbnail-1.webp">
+                </div>
+                <div style="display: flex; flex-direction: column; flex: 1;">
+                <p class="name-text">
+                        Rex
+                </p>
+                <p  class="name-text4">
+                        Happy Bulldog
+                </p>
+                <p  class="name-text2">
+                        Popular
+                </p>
+                </div>
+                <div>
+                <button class="follow-button"> Follow</button>
+                </div>
+        </div>
+        </div>
+    </body>
+</html>

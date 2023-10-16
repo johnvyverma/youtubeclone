@@ -1,0 +1,25 @@
+
+.model-text{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family:Montserrat;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   text-align: center;
+}
+.order-text{
+    font-size: 15px;
+    font-family:Montserrat;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   text-align: center;
+}
+.touchless-span{
+    text-decoration: underline;
+    font-family:Montserrat;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   text-align: center;
+}

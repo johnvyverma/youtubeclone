@@ -1,0 +1,108 @@
+.website1{
+    margin-left: 10px;
+}
+.website2{
+    margin-left: 10px;
+}
+.website3{
+    margin-left: 10px;
+}
+.website4{
+    margin-left: 10px;
+}
+.website5{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.stretch-button {
+    background-color: green;
+    color: white;
+    border-style: none;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    transition: padding-left 1s, padding-bottom 1s, padding-right 1s, padding-top 1s;
+    cursor: pointer;
+}
+.stretch-button:hover {
+    
+    padding-left:  36px;
+    padding-right: 36px;
+    padding-top: 18px ;
+    padding-bottom: 18px;
+}
+.shadow-button {
+    background-color: green;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+    color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    border: none;
+}
+.shadow-button:active {
+   
+    margin-top: 10px;
+    margin-left: 3px;
+    
+    box-shadow: none;
+}
+.one-button{
+    background-color: green;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
+.one-button:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.two-button{
+    background-color: green;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
+.two-button:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.three-button{
+    background-color: green;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 8px;
+}
+.three-button:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
